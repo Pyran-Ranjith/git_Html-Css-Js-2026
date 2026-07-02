@@ -27,4 +27,51 @@ start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-cra
     <p>my <small>first</small> web <em>page!</em></p><!-- small: small, em: italic -->
 ```
 
-Tutorial-04 BM: 29:30
+## tutorial-03 HTML & CSS Crash Course Tutorial #3 - HTML Forms
+[Video link](https://www.youtube.com/watch?v=YwbIeMlxZAU&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=3)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\tutorial-03\index.html"
+```
+
+## tutorial-04 HTML & CSS Crash Course Tutorial #4 - CSS Basics
+[Video link](https://www.youtube.com/watch?v=D3iEE29ZXRM&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=6)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\Tutorial-04\index.html"
+```
+
+## tutorial-05 HTML & CSS Crash Course Tutorial #5 - CSS Classes & Selectors
+[Video link](https://www.youtube.com/watch?v=FHZn6706e3Q&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=5)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\Tutorial-05\index.html"
+```
+
+## tutorial-06 HTML & CSS Crash Course Tutorial #6 - HTML 5 Semantics
+[Video link](https://www.youtube.com/watch?v=kGW8Al_cga4&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=6)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\Tutorial-06\index.html"
+```
+
+## tutorial-07 HTML & CSS Crash Course Tutorial #7 - Chrome Dev Tools
+[Video link](https://www.youtube.com/watch?v=25R1Jl5P7Mw&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=7)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\Tutorial-07\index.html"
+```
+
+## tutorial-08 HTML & CSS Crash Course Tutorial #8 - CSS Layout & Position
+[Video link](https://www.youtube.com/watch?v=XQaHAAXIVg8&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=8)
+
+Run this in VS Code terminal to open the index.html file in your browser:
+```bash
+start "" "E:\Users\Public\git_Html-Css-Js-2026\ninja-iamshaunjp\html-and-css-crash-course\Tutorial-08\index.html"
+```
+BM: 20:01/39:02
